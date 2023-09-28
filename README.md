@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<strong>Simplex Tools and Extensions</strong><br />
+	<strong> [Goo Edit] Simplex Tools and Extensions</strong><br />
 	<sup><strong>Various features for Arma 3</strong></sup>
 </p>
 
@@ -27,7 +27,11 @@
 - [ACE3](https://github.com/acemod/ACE3)
 - [ZEN](https://github.com/zen-mod/ZEN)
 
-### Description
+### Disclaimer
+
+THIS IS A MODIFICATION OF THE ORIGINAL SIMPLEX MOD AS AS SUCH PUBLISHED UNDER THE SAME LICENSE.
+
+### Original Description
 
 Simplex Tools and Extensions is a collection of various features for mission makers, zeus game masters, and players to utilize.
 Many of these features are still in development and **very experimental**. So use them at your own risk.
